@@ -17,7 +17,7 @@
         <sys_updated_by>PeMa</sys_updated_by>
         <sys_updated_on>2018-03-08 17:27:22</sys_updated_on>
         <table>x_58872_needit_needit</table>
-        <ui_policy display_value="NeedIt ukaž/skryj pole Other">2ff1e3d80fb0130090f24c6be1050e3e</ui_policy>
+        <ui_policy display_value="NeedIt ukaž/skryj pole Other za určité podmínky">2ff1e3d80fb0130090f24c6be1050e3e</ui_policy>
         <visible>true</visible>
     </sys_ui_policy_action>
 </record_update>

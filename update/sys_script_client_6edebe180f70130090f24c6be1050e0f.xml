@@ -4,7 +4,7 @@
         <active>false</active>
         <applies_extended>false</applies_extended>
         <condition/>
-        <description/>
+        <description>Před naloadováním tabulky NeedIt oteře dialog s těmi údaji, které jsou v políčku u_short_description</description>
         <field>sys_created_on</field>
         <global>true</global>
         <messages/>
@@ -20,7 +20,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6edebe180f70130090f24c6be1050e0f</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Vybafni popis</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -28,7 +28,7 @@
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_script_client_6edebe180f70130090f24c6be1050e0f</sys_update_name>
         <sys_updated_by>PeMa</sys_updated_by>
-        <sys_updated_on>2018-03-08 13:48:21</sys_updated_on>
+        <sys_updated_on>2018-03-12 14:13:56</sys_updated_on>
         <table>x_58872_needit_needit</table>
         <type>onLoad</type>
         <ui_type>0</ui_type>
